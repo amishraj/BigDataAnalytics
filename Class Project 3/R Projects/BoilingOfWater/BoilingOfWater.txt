@@ -1,0 +1,296 @@
+AS this is one of the most rudimentary of the operations of cookery,
+and the most frequently performed, it naturally takes a first place in
+treating the subject.
+
+Water is boiled in the kitchen for two distinct purposes: 1st, for the
+cooking of itself; 2nd, for the cooking of other things. A dissertation
+on the difference between raw water and cooked water may appear
+pedantic, but, as I shall presently show, it is considerable, very
+practical, and important.
+
+The best way to study any physical subject is to examine it
+experimentally, but this is not always possible with everyday means. In
+this case, however, there is no difficulty.
+
+Take a thin[1] glass vessel, such as a flask, or, better, one of the
+‘beakers,’ or thin tumbler-shaped vessels, so largely used in chemical
+laboratories; partially fill it with ordinary household water, and
+then place it over the flame of a spirit-lamp, or Bunsen’s, or other
+smokeless gas-burner. Carefully watch the result, and the following
+will be observed: first of all, little bubbles will be formed,
+adhering to the sides of the glass, but ultimately rising to the
+surface, and there becoming dissipated by diffusion in the air.
+
+This is not boiling, as may be proved by trying the temperature with
+the finger. What, then, is it?
+
+It is the yielding back of the atmospheric gases which the water
+has dissolved or condensed within itself. These bubbles have been
+collected, and by analysis proved to consist of oxygen, nitrogen, and
+carbonic acid, obtained from the air; but in the water they exist by no
+means in the same proportions as originally in the air, nor in constant
+proportions in different samples of water. I need not here go into the
+quantitative details of these proportions, nor the reasons of their
+variation, though they are very interesting subjects.
+
+Proceeding with our investigation, we shall find that the bubbles
+continue to form and rise until the water becomes too hot for the
+finger to bear immersion. At about this stage something else begins to
+occur. Much larger bubbles, or rather blisters, are now formed on the
+bottom of the vessel, immediately over the flame, and they continually
+collapse into apparent nothingness. Even at this stage a thermometer
+immersed in the water will show that the boiling-point is not reached.
+As the temperature rises, these blisters rise higher and higher,
+become more and more nearly spherical, finally quite so, then detach
+themselves and rise towards the surface; but the first that make this
+venture perish in the attempt—they gradually collapse as they rise, and
+vanish before reaching the surface. The thermometer now shows that the
+boiling-point is nearly reached, but not quite. Presently the bubbles
+rise completely to the surface and break there. Now the water is
+boiling, and the thermometer stands at 212° Fahr. or 100° Cent.
+
+With the aid of suitable apparatus it can be shown that the atmospheric
+gases above named continue to be given off along with the steam for a
+considerable time after the boiling has commenced; the complete removal
+of their last traces being a very difficult, if not an impossible,
+physical problem.
+
+After a moderate period of boiling, however, we may practically regard
+the water as free from these gases. In this condition I venture to call
+it cooked water. Our experiment so far indicates one of the differences
+between cooked and raw water. The cooked water has been deprived of
+the atmospheric gases that the raw water contained. By cooling some
+of the cooked water and tasting it, the difference of flavour is very
+perceptible; by no means improved, though it is quite possible to
+acquire a preference for this flat, tasteless liquid.
+
+If a fish be placed in such cooked water it swims for a while with its
+mouth at the surface, for just there is a film that is reacquiring its
+charge of oxygen, &c., by absorbing it from the air; but this film is
+so thin, and so poorly charged, that after a short struggle the fish
+dies for lack of oxygen in its blood; drowned as truly and completely
+as an air-breathing animal when immersed in any kind of water.
+
+Spring water and river water that have passed through or over
+considerable distances in calcareous districts suffer another change
+in boiling. The origin and nature of this change may be shown by
+another experiment as follows: Buy a pennyworth of lime-water from a
+druggist, and procure a small glass tube of about quill size, or the
+stem of a fresh tobacco-pipe may be used. Half fill a small wine-glass
+with the lime-water, and blow through it by means of the tube or
+tobacco-pipe. Presently it will become turbid. Continue the blowing,
+and the turbidity will increase up to a certain degree of milkiness. Go
+on blowing with ‘commendable perseverance,’ and an inversion of effect
+will follow; the turbidity diminishes, and at last the water becomes
+clear again.
+
+The chemistry of this is simple enough. From the lungs a mixture
+of nitrogen, oxygen, and carbonic acid is exhaled. The carbonic
+acid combines with the soluble lime, and forms a carbonate of lime
+which is insoluble in mere water. But this carbonate of lime is to a
+certain extent soluble in water saturated with carbonic acid, and such
+saturation is effected by the continuation of blowing.
+
+Now take some of the lime-water that has been thus treated, place it in
+a clean glass flask, and boil it. After a short time the flask will be
+found incrusted with a thin film of something. This is the carbonate
+of lime which has been thrown down again by the action of boiling,
+which has driven off its solvent, the carbonic acid. This crust will
+effervesce if a little acid is added to it.
+
+In this manner our tea-kettles, engine-boilers, &c., become incrusted
+when fed with calcareous waters, and most waters are calcareous; those
+supplied to London, which is surrounded by chalk, are largely so. Thus,
+the boiling or cooking of such water effects a removal of its mineral
+impurities more or less completely. Other waters contain such mineral
+matter as salts of sodium and potassium. These are not removable
+by mere boiling, being equally soluble in hot or cold, aerated, or
+non-aerated water.
+
+Usually we have no very strong motive for removing either these or
+the dissolved carbonate of lime, or the atmospheric gases from water,
+but there is another class of impurities of serious importance. These
+are the organic matters dissolved in all water that has run over land
+covered with vegetable growth, or, more especially, that which has
+received contributions from sewers or any other form of house drainage.
+Such water supplies nutriment to those microscopic abominations, the
+_micrococci_, _bacilli_, _bacteria_, &c., which are now shown to be
+connected with blood poisoning. These little pests are harmless, and
+probably nutritious, when cooked, but in their raw and growing state
+are horribly prolific in the blood of people who are in certain states
+of what is called ‘receptivity.’ They (the bacteria, &c.) appear to be
+poisoned or somehow killed off by the digestive secretions of the blood
+of some people, and nourished luxuriantly in the blood of others. As
+nobody can be quite sure to which class he belongs, or may presently
+belong, or whether the water supplied to his household is free from
+blood-poisoning organisms, cooked water is a safer beverage than raw
+water. I should add that this germ theory of disease is disputed by
+some who maintain that the source of the diseases attributed to such
+microbia is chemical poison, the microbia (_i.e._ little living things)
+are merely accidental, or creatures fed on the disease-producing
+poison. In either case the boiling is effectual, as such organic
+poisons when cooked lose their original virulent properties.
+
+The requirement for this simple operation of cooking increases with the
+density of our population, which, on reaching a certain degree, renders
+the pollution of all water obtained from the ordinary sources almost
+inevitable.
+
+Reflecting on this subject, I have been struck with a curious fact that
+has hitherto escaped notice, viz. that in the country which over all
+others combines a very large population with a very small allowance
+of cleanliness, the ordinary drink of the people is boiled water,
+flavoured by an infusion of leaves. These people, the Chinese, seem in
+fact to have been the inventors of boiled-water beverages. Judging from
+travellers’ accounts of the state of the rivers, rivulets, and general
+drainage and irrigation arrangements of China, its population could
+scarcely have reached its present density if Chinamen were drinkers of
+raw instead of cooked water. This is especially remarkable in the case
+of such places as Canton, where large numbers are living afloat on the
+mouths of sewage-laden rivers or estuaries.
+
+The ordinary everyday domestic beverage is a weak infusion of tea,
+made in a large teapot, kept in a padded basket to retain the heat.
+The whole family is supplied from this reservoir. The very poorest
+drink plain hot water, or water tinged by infusing the spent tea-leaves
+rejected by their richer neighbours.
+
+Next to the boiling of water for its own sake, comes the boiling
+of water as a medium for the cooking of other things. Here, at the
+outset, I have to correct an error of language which, as too often
+happens, leads by continual suggestion to false ideas. When we speak
+of ‘boiled beef,’ ‘boiled mutton,’ ‘boiled eggs,’ ‘boiled potatoes,’
+we talk nonsense; we are not merely using an elliptical expression, as
+when we say, ‘the kettle boils,’ which we all understand to mean the
+contents of the kettle, but we are expounding a false theory of what
+has happened to the beef, &c.—as false as though we should describe the
+material of the kettle that has held boiling water as boiled copper or
+boiled iron. No boiling of the food takes place in any such cases as
+the above-named—it is merely heated by immersion in boiling water; the
+changes that actually take place in the food are essentially different
+from those of ebullition. Even the water contained in the meat is not
+boiled in ordinary cases, as its boiling-point is higher than that of
+the surrounding water, owing to the salts it holds in solution.
+
+Thus, as a matter of chemical fact, a ‘boiled leg of mutton’ is one
+that has been cooked, but not boiled; while a roasted leg of mutton is
+one that has been partially boiled. Much of the constituent water of
+flesh is boiled out, fairly driven away as vapour during roasting or
+baking, and the fat on its surface is also boiled, and, more or less,
+dissociated into its chemical elements, carbon and water, as shown by
+the browning, due to the separated carbon.
+
+As I shall presently show, this verbal explanation is no mere verbal
+quibble, but it involves important practical applications. An enormous
+waste of precious fuel is perpetrated every day, throughout the whole
+length and breadth of Britain and other countries where English
+cookery prevails, on account of the almost universal ignorance of the
+philosophy of the so-called boiling of food.
+
+When it is once fairly understood that the meat is not to be boiled,
+but is merely to be warmed by immersion in water raised to a maximum
+temperature of 212°, and when it is further understood that water
+cannot (under ordinary atmospheric pressure) be raised to a higher
+temperature than 212° by any amount of violent boiling, the popular
+distinction between ‘simmering’ and boiling, which is so obstinately
+maintained as a kitchen superstition, is demolished.
+
+The experiment described on pages 8 and 9 showed that immediately the
+bubbles of steam reach the surface of the water and break there—that
+is, when simmering commences—the thermometer reaches the boiling-point,
+and that however violently the boiling may afterwards occur, the
+thermometer rises no higher. Therefore, as a medium for heating the
+substances to be cooked, simmering water is just as effective as
+‘walloping’ water. There are exceptional operations of cookery, wherein
+useful mechanical work is done by violent boiling; but in all ordinary
+cookery simmering is just as effective. The heat that is applied to
+do more than the smallest degree of simmering is simply wasted in
+converting water into useless steam. The amount of such waste may be
+easily estimated. To raise a given quantity of water from the freezing
+to the boiling point demands an amount of heat represented by 180° in
+Fahrenheit’s thermometer, or 100° Centigrade. To convert this into
+steam, 990° Fahr. or 550° Cent. is necessary—just five-and-a-half times
+as much.
+
+On a properly-constructed hot-plate or sand-bath a dozen saucepans
+may be kept at the true cooking temperature, with an expenditure of
+fuel commonly employed in England to ‘boil’ one saucepan. In the
+great majority of so-called boiling operations, even simmering is
+unnecessary. Not only is a ‘boiled leg of mutton’ not itself boiled,
+but even the water in which it is cooked should not be kept boiling, as
+we shall presently see.
+
+The following, written by Count Rumford nearly 100 years ago, remains
+applicable at the present time, in spite of all our modern research and
+science teaching:
+
+‘The process by which food is most commonly prepared for the
+table—BOILING—is so familiar to everyone, and its effects are so
+uniform and apparently so simple, that few, I believe, have taken
+the trouble to inquire _how_ or in _what manner_ these effects are
+produced; and whether any and what improvements in that branch of
+cookery are possible. So little has this matter been an object of
+inquiry that few, very few indeed I believe, among the _millions of
+persons_ who for so many ages have been _daily_ employed in this
+process, have ever given themselves the trouble to bestow one serious
+thought upon the subject.
+
+‘The cook knows _from experience_ that if his joint of meat be kept
+a certain time immersed in boiling water it will be _done_, as it is
+called in the language of the kitchen; but if he be asked what is done
+to it, or _how_ or _by what agency_ the change it has undergone has
+been effected—if he understands the question—it is ten to one but he
+will be embarrassed. If he does not understand he will probably answer
+without hesitation, that “_The meat is made tender and eatable by being
+boiled_.” Ask him if the boiling of the water be essential to the
+process. He will answer, “_Without doubt_.” Push him a little further
+by asking him whether, _were it possible_ to keep the water _equally
+hot_ without boiling, the meat would not be cooked _as soon_ and _as
+well_ as if the water were made to boil. Here it is probable he will
+make the first step towards acquiring knowledge by _learning to doubt_.’
+
+In another place he points to the fact that at Munich, where his chief
+cookery operations were performed, water boils at 209½° (on account
+of its elevation), while in London the boiling-point is 212°. ‘Yet
+nobody, I believe, ever perceived that boiled meat was less done at
+Munich than at London. But if meat may without the least difficulty be
+cooked with a heat of 209½° at Munich, why should it not be possible
+to cook it with the same degree of heat in London? If this can be done
+in London (which I think can hardly admit of a doubt), then it is
+evident that the process of cookery, which is called _boiling_, may be
+performed in water which is not boiling hot.’
+
+He proceeds to say, ‘I well know, from my own experience, how difficult
+it is to persuade cooks of this truth, but it is so important that no
+pains should be spared in endeavouring to remove their prejudices and
+enlighten their understandings. This may be done most effectually in
+the case before us by a method I have several times put in practice
+with complete success. It is as follows: Take two equal boilers,
+containing equal quantities of _boiling hot water_, and put into them
+two equal pieces of meat taken from the same carcase—two legs of
+mutton, for instance—and boil them during the same time. Under one of
+the boilers make a _small fire_, just barely sufficient to keep the
+water _boiling hot_, or rather just _beginning to boil_; under the
+other make _as vehement a fire as possible_, and keep the water boiling
+the whole time with the utmost violence. The meat in the boiler in
+which the water has been kept _only just boiling hot_ will be found to
+be quite as well done as that in the other. It will even be found to
+be much better cooked, that is to say tenderer, more juicy, and much
+higher flavoured.’
+
+Rumford at this date (1802) understood perfectly that the water just
+boiling hot had the same temperature as that which was boiling with
+the utmost violence, but did not understand that the best result is
+obtained at a much lower temperature, for in another place he states
+that if the meat be cooked in water under pressure, so that the
+temperature shall exceed 212°, it will be done proportionally quicker
+and as well. My reasons for controverting this will be explained in the
+following chapters.
+
+FOOTNOTE:
+
+[1] In applying heat to glass vessels, thickness is a source of
+weakness or liability to fracture, on account of the unequal expansion
+of the two sides, due to inequality of temperature, which, of course,
+increases with the thickness of the glass. Besides this, the thickness
+increases the leverage of the breaking strain.
